@@ -1,0 +1,13 @@
+{
+  "name": "Revolucio",
+  "homepage": "https://github.com/Seichi-work/Revolucio",
+  "authors": [
+    "sanaehururu1200 <sanaehururu1200@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "flat-ui": "^2.3.0"
+  }
+}

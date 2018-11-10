@@ -1,0 +1,12 @@
+!lib/bin
+/node_modules
+/npm-debug.log
+
+/component.json
+/bower_components
+
+.DS_Store
+
+node_modules
+platforms
+plugins
